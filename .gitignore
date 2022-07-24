@@ -21,6 +21,7 @@
 *.so
 *.dylib
 *.dll
+*.dSYM
 
 # Fortran module files
 *.mod
@@ -156,6 +157,7 @@ StyleCopReport.xml
 *.pidb
 *.svclog
 *.scc
+
 
 # Chutzpah Test files
 _Chutzpah*
